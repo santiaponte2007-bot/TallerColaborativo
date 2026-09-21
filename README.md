@@ -1,31 +1,48 @@
 # TallerColaborativo
-## Participación
-- Autor: Caleth Godoy
-- Tema principal: Ciberseguridad
-- Tema adicional: Realidad Virtual (parte 3)
-- Observaciones: ## Observaciones del Taller
-Durante la validación de mis archivos en la plataforma del taller se obtuvieron las siguientes advertencias y sugerencias:
+# Taller Colaborativo - Fundamentos Web
 
-- Estructura HTML correcta y completa.
-- Advertencia: falta atributo alt en una imagen del archivo realidadvirtual.html.
-- Sugerencia: agregar etiqueta meta de descripción en el encabezado.
-- Sugerencia: incluir comentarios que identifiquen las secciones del autor.
-- Validación: enlaces y rutas de imágenes funcionan correctamente.
-- Cumplimiento: se incluyen listas, tablas e imágenes según los requisitos del taller.
+Este proyecto reúne los aportes de los integrantes en la construcción de páginas web sobre distintos temas de tecnología.  
+Cada participante trabajó en su propia rama y luego se integró en `develop` para finalmente consolidar en `main`.
 
-Estas observaciones fueron revisadas y corregidas en mi rama Caleth.
+---
 
-# TallerColaborativo
-PAGINA INDEX VALIDACION
-Santiago Aponte
-ERRORES ENCONTRADOS:
-Advertencia : Este documento parece estar escrito en español, pero la htmletiqueta de inicio tiene lang="en". Considere usar lang="es"(o una variante) en su lugar.
+## Participaciones
 
-Desde la línea 1 , columna 16 ; hasta la línea 2 , columna 16
+- **Santiago**  
+  Tema 1: Realidad Virtual y Aumentada  
+  - Introducción: ¿Qué es la RV y la RA?  
+  - Aplicaciones en educación e industria.  
+  - Diferencias principales entre ambas tecnologías.  
+  - Imagen representativa en carpeta `imagenes/`.
 
-TYPE html>↩<html lang="en">↩<head
+- **(Caleth)**  
+  Tema 2: Ciberseguridad  
+  - Página completa con lista de amenazas, tabla comparativa, imagen (`tema2.png`) y fuentes externas.  
+  - Organización en carpeta `img/`.
 
-SOLUCION:
+- ** (Caleth)**  
+  Tema 3: Realidad Virtual (complemento)  
+  - Aplicaciones actuales en educación, videojuegos y medicina.  
+  - Tabla comparativa de dispositivos VR (Meta Quest 2, PlayStation VR2, HTC Vive Pro).  
+  - Imagen representativa (`tema3.png`).  
+  - Fuentes externas confiables.
 
-Cambiar EN por ES para que no haya algun conflicto entre los idiomas
+---
 
+## Observaciones del Taller
+
+Durante la validación en la plataforma del taller se obtuvieron las siguientes advertencias y sugerencias:
+
+- ✅ Estructura HTML correcta y completa.  
+- ⚠️ Advertencia: falta atributo `alt` en una imagen del archivo `realidadvirtual.html`.  
+- ⚠️ Sugerencia: agregar etiqueta `<meta name="description">` en el encabezado.  
+- ⚠️ Sugerencia: incluir comentarios que identifiquen las secciones del autor.  
+- ✅ Validación: enlaces y rutas de imágenes funcionan correctamente.  
+- ✅ Cumplimiento: se incluyen listas, tablas e imágenes según los requisitos del taller.  
+
+---
+
+## Conclusión
+
+El proyecto cumple con los objetivos del taller: trabajo colaborativo en ramas, integración en `develop` y consolidación en `main`.  
+Cada participante aportó contenido propio y se documentaron las observaciones técnicas en el README.md.
